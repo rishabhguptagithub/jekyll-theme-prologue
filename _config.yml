@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rishotics
-subtitle: Your awesome subtitle
+subtitle: @rishabhgupta05
 description: >- # this means to ignore newlines until "baseurl:"
   This is the demo site for a Jekyll theme version of
   HTML5 UP's sleek, responsive site template Prologue.
@@ -49,8 +49,8 @@ twitter_url:
 facebook_url: https://www.facebook.com/rishabh.gupta.9083477 
 googleplus_url:
 instagram_url:
-linkedin_url:https://www.linkedin.com/in/rishotics
-github_url:https://github.com/rishabhguptagithub
+linkedin_url: https://www.linkedin.com/in/rishotics
+github_url: https://github.com/rishabhguptagithub
 pinterest_url:
 slack_url:
 dribbble_url:
